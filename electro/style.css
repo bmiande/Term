@@ -1,0 +1,10 @@
+table, th, td {
+   border: 1px solid black;
+}
+
+
+pre {
+  display: block;
+  background-color: black;
+  color: white;
+}
